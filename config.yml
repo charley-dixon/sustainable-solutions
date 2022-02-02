@@ -1,0 +1,6 @@
+# @format
+
+development:
+  store: https://sustainable-solutions-soap.myshopify.com
+  password: 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
+  theme_id: 125293887535
